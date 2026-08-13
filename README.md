@@ -13,6 +13,7 @@ frad-mod is a mod for CS:GO Legacy featuring:
 2. Download the [frad-mod Setup](https://github.com/ankerboi/frad-setup/raw/refs/heads/main/setup.exe).
 3. Open the setup and select your CS:GO Legacy folder.
 4. Press Download.
+
 [Video Tutorial](https://youtu.be/6OB8GZenVWE)
 ## Support
 [Discord](https://discord.com/invite/Aj3zhDyHpu)  
