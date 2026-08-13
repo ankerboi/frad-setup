@@ -10,7 +10,7 @@ frad-mod is a mod for CS:GO Legacy featuring:
 - Marketplace
 ## Download
 1. Install [CS:GO Legacy](https://store.steampowered.com/app/4465480/CounterStrikeGlobal_Offensive).
-2. Download the [FRAD-MOD Setup](https://github.com/ankerboi/frad-setup/raw/refs/heads/main/setup.exe).
+2. Download the [frad-mod Setup](https://github.com/ankerboi/frad-setup/raw/refs/heads/main/setup.exe).
 3. Open the setup and select your CS:GO Legacy folder.
 4. Press Download.
 [Video Tutorial](https://youtu.be/6OB8GZenVWE)
